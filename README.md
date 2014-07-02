@@ -6,7 +6,8 @@
 
 Github Tools and Helper Brain Navigation
 =============================
-If you have links or notes that you would like to appear in this brain, please send pull requests or comments.
+Click Main Header to see home page for site and TheBrain Navigation  
+*If you have links or notes that you would like to appear in this brain, please send pull requests or comments.
 
 Thank you!
 
