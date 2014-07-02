@@ -1,3 +1,6 @@
-TM-s-Github-Tools-and-Helpers
+Github Tools and Helper Brain Navigation [Version 2014]
 =============================
-<iframe src="https://webbrain.com/brain/brain/9F4768AF-1627-F815-9F48-DAE8B2DE01B4/options/default" style="width:600px; height:600px"></iframe>
+If you have links or notes that you would like to appear in this brain, please send pull requests or comments.
+
+Thank you!
+
